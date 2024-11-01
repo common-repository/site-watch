@@ -1,0 +1,1470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Site Spy\n"
+"POT-Creation-Date: 2015-12-29 17:24-0700\n"
+"PO-Revision-Date: 2015-08-01 09:31-0700\n"
+"Last-Translator: Bob Riley <bob@easypiewp.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/Entities/Form/class-ezp-ibc-rule-entity.php:145
+msgid "Form "
+msgstr ""
+
+#: ../classes/Entities/Form/class-ezp-ibc-rule-entity.php:145
+#: ../classes/Entities/Form/class-ezp-ibc-rule-entity.php:146
+msgid " has been submitted by "
+msgstr ""
+
+#: ../classes/Entities/Form/class-ezp-ibc-rule-entity.php:146
+msgid "This is just a quick note to let you know that form "
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-click-trigger-entity.php:53
+msgid "Selector must not be blank"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:48
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:336
+#: ../pages/dashboard/page-activity-dashboard.php:123
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:79
+msgid "Prospect"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:49
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:340
+#: ../pages/dashboard/page-activity-dashboard.php:135
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:90
+msgid "Lead"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:50
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:344
+#: ../pages/dashboard/page-activity-dashboard.php:146
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:101
+msgid "Customer"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:125
+msgid "Not Set"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:127
+msgid "Last name can't be longer than 255 characters"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:128
+msgid "First name can't be longer than 255 characters"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:129
+msgid "Email address can't be longer than 255 characters"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:130
+msgid "Phone number can't be longer than 255 characters"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:131
+msgid "Address can't be longer than 255 characters"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:132
+msgid "City can't be longer than 255 characters"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:133
+msgid "State/region can't be longer than 255 characters"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:134
+msgid "Zip code can't be longer than 255 characters"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:135
+msgid "Country code can't be longer than 2 characters"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:136
+msgid "Notes can't be longer than 1024 characters"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:224
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:240
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:240
+#: ../classes/class-ezp-ibc-ecommerce.php:36
+#: ../classes/class-ezp-ibc-ws.php:277
+#: ../pages/people/page-contact-edit-tab.php:90
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:389
+#: ../ui-components/class-ezp-ibc-event-list-control.php:274
+#: ../ui-components/old/class-ezp-ibc-rule-list-control.php:183
+msgid "Unknown"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-contact-entity.php:348
+#: ../classes/class-ezp-ibc-report-helper.php:187
+msgid "Unknown Stage"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:284
+msgid "<p style=\"margin-left:14px\">"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:284
+#: ../ui-components/class-ezp-ibc-event-list-control.php:141
+#: ../ui-components/class-ezp-ibc-user-event-type-list-control.php:101
+#: ../ui-components/old/class-ezp-ibc-form-list-control.php:104
+#: ../ui-components/old/class-ezp-ibc-rule-list-control.php:92
+msgid "ID"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:301
+msgid "Unknown Event"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:306
+#: ../ui-components/class-ezp-ibc-event-list-control.php:281
+msgid "Page Load"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:310
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:169
+#: ../ui-components/class-ezp-ibc-event-list-control.php:285
+msgid "Form Submission"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:314
+#: ../ui-components/class-ezp-ibc-event-list-control.php:289
+msgid "Button Click"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:318
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:170
+#: ../ui-components/class-ezp-ibc-event-list-control.php:293
+msgid "Lifecycle Change"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:322
+#: ../pages/intelligence/page-intelligence-scoring-tab.php:106
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:172
+#: ../ui-components/class-ezp-ibc-event-list-control.php:297
+msgid "Purchase"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:326
+#: ../ui-components/class-ezp-ibc-event-list-control.php:301
+msgid "WordPress Login"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:330
+#: ../pages/intelligence/page-page-trigger.php:210
+#: ../pages/intelligence/page-page-trigger.php:222
+#: ../ui-components/class-ezp-ibc-click-trigger-list-control.php:94
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:173
+#: ../ui-components/class-ezp-ibc-event-list-control.php:305
+#: ../ui-components/class-ezp-ibc-page-trigger-list-control.php:106
+msgid "User Event"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:367
+msgid "User"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:385
+msgid "Form on "
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:454
+msgid "(WC)"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:456
+msgid "Order ID"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-entity.php:457
+msgid "Line Item Cost"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-event-group-entity.php:42
+#: ../classes/Entities/class-ezp-ibc-user-event-type-entity.php:44
+msgid "Name is required"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-global-entity.php:102
+msgid "Form list can't be lo181nger than 255 characters"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-global-entity.php:104
+msgid "Max inactive property age must be between 0 and 180"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-global-entity.php:105
+msgid "History retention must be between 0 and 180"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-global-entity.php:106
+msgid "Max pages must be between 0 and 1000"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-global-entity.php:108
+msgid "WordPress DB size alert must be between 0 and 1000000"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-global-entity.php:109
+msgid "Max pages must be between 0 and 1000000"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-global-entity.php:111
+#, php-format
+msgid "Page view event worth must be between %1$s and %2$s"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-global-entity.php:112
+#, php-format
+msgid "Form submission event worth must be between %1$s and %2$s"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-global-entity.php:113
+#, php-format
+msgid "Login event worth must be between %1$s and %2$s"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-global-entity.php:114
+#, php-format
+msgid "Purchase event worth must be between %1$s and %2$s"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-page-trigger-entity.php:56
+msgid "URL must be relative (start with '/' not http or include domain)"
+msgstr ""
+
+#: ../classes/Entities/class-ezp-ibc-user-event-type-entity.php:45
+#, php-format
+msgid "Worth  must be between %1$s and %2$s"
+msgstr ""
+
+#: ../classes/Utilities/class-ezp-ibc-u.php:323
+msgid "Coming Soon is On"
+msgstr ""
+
+#: ../classes/Utilities/class-ezp-ibc-u.php:328
+msgid "Coming Soon is Off"
+msgstr ""
+
+#: ../classes/Utilities/class-ezp-ibc-u.php:433
+#: ../classes/class-ezp-ibc.php:558 ../pages/dashboard/page-dashboard.php:58
+msgid "Dashboard"
+msgstr ""
+
+#: ../classes/Utilities/class-ezp-ibc-u.php:434
+#: ../pages/dashboard/page-dashboard.php:67
+msgid "Real-time"
+msgstr ""
+
+#: ../classes/Utilities/class-ezp-ibc-u.php:436
+#: ../classes/class-ezp-ibc.php:559 ../pages/dashboard/page-dashboard.php:66
+#: ../pages/people/page-people.php:69
+msgid "People"
+msgstr ""
+
+#: ../classes/Utilities/class-ezp-ibc-u.php:437
+#: ../classes/class-ezp-ibc.php:561
+#: ../pages/intelligence/page-intelligence.php:41
+msgid "Intelligence"
+msgstr ""
+
+#: ../classes/Utilities/class-ezp-ibc-u.php:438
+#: ../classes/class-ezp-ibc.php:564 ../pages/assets/page-form.php:140
+#: ../pages/settings/page-settings.php:55
+msgid "Settings"
+msgstr ""
+
+#: ../classes/Utilities/class-ezp-ibc-u.php:445
+msgid ""
+"<a target=\"_blank\" href=\"http://easypiewp.com/site-watch-help/\">Help</a>"
+msgstr ""
+
+#: ../classes/class-ezp-ibc-report-helper.php:192
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:162
+msgid "Prospects"
+msgstr ""
+
+#: ../classes/class-ezp-ibc-report-helper.php:196
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:163
+msgid "Leads"
+msgstr ""
+
+#: ../classes/class-ezp-ibc-report-helper.php:200
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:164
+msgid "Customers"
+msgstr ""
+
+#: ../classes/class-ezp-ibc-report-helper.php:209
+msgid "unknown event"
+msgstr ""
+
+#: ../classes/class-ezp-ibc-report-helper.php:229
+msgid "user event"
+msgstr ""
+
+#: ../classes/class-ezp-ibc-report-helper.php:250
+msgid "unknown time period"
+msgstr ""
+
+#: ../classes/class-ezp-ibc-storage-manager.php:71
+msgid "WORDPRESS DATABASE SIZE is"
+msgstr ""
+
+#: ../classes/class-ezp-ibc-storage-manager.php:81
+msgid "SITE SPY TABLE SIZE IS"
+msgstr ""
+
+#: ../classes/class-ezp-ibc-storage-manager.php:94
+msgid "Storage Settings"
+msgstr ""
+
+#: ../classes/class-ezp-ibc-ws.php:225
+#, php-format
+msgid ""
+"<span style=\"color:%5$s\"><strong>%1s</strong> <a target=\"_blank\" href="
+"\"%6$s\">%3$s</a> (%4$s) by <a href=\"%7$s\" target=\"_blank\" >%2$s</a></"
+"span>"
+msgstr ""
+
+#: ../classes/class-ezp-ibc-ws.php:273
+#, php-format
+msgid "%1$s (%2$s)"
+msgstr ""
+
+#: ../classes/class-ezp-ibc.php:134
+#, php-format
+msgid "<a href=\"%1$s\">Settings</a>"
+msgstr ""
+
+#: ../classes/class-ezp-ibc.php:372
+msgid "Bad Form Shortcode"
+msgstr ""
+
+#: ../classes/class-ezp-ibc.php:565 ../pages/support/page-support.php:49
+msgid "Support"
+msgstr ""
+
+#: ../classes/class-ezp-ibc.php:568
+#: ../ui-components/old/fieldbox-template.php:34
+msgid "Contact"
+msgstr ""
+
+#: ../classes/class-ezp-ibc.php:569
+#: ../ui-components/old/class-ezp-ibc-rule-list-control.php:192
+msgid "Form"
+msgstr ""
+
+#: ../classes/class-ezp-ibc.php:570
+msgid "List"
+msgstr ""
+
+#: ../classes/class-ezp-ibc.php:572
+msgid "User Event Type"
+msgstr ""
+
+#: ../classes/class-ezp-ibc.php:573
+msgid "Page Trigger"
+msgstr ""
+
+#: ../classes/class-ezp-ibc.php:575
+msgid "Click Trigger"
+msgstr ""
+
+#: ../classes/class-ezp-ibc.php:620 ../classes/class-ezp-ibc.php:633
+#: ../pages/people/page-people.php:106
+msgid "Contacts"
+msgstr ""
+
+#: ../pages/assets/page-assets.php:48
+msgid "Forms & Buttons"
+msgstr ""
+
+#: ../pages/assets/page-assets.php:52
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:297
+#: ../pages/settings/page-settings-advanced-tab.php:79
+msgid "Forms"
+msgstr ""
+
+#: ../pages/assets/page-form.php:99
+msgid "Create Form"
+msgstr ""
+
+#: ../pages/assets/page-form.php:99
+msgid "Edit Form"
+msgstr ""
+
+#: ../pages/assets/page-form.php:107
+#: ../pages/intelligence/page-click-trigger.php:148
+#: ../pages/intelligence/page-intelligence-scoring-tab.php:60
+#: ../pages/intelligence/page-page-trigger.php:188
+#: ../pages/intelligence/page-user-event-type.php:110
+#: ../pages/lists/page-list-edit-tab.php:44
+#: ../pages/people/page-contact-edit-tab.php:47
+#: ../pages/settings/page-settings-advanced-tab.php:66
+#: ../pages/settings/page-settings-basic-tab.php:80
+#: ../pages/settings/page-settings-storage-tab.php:80
+#: ../pages/support/page-support.php:96
+msgid "Errors present:"
+msgstr ""
+
+#: ../pages/assets/page-form.php:111
+msgid "Form Updated."
+msgstr ""
+
+#: ../pages/assets/page-form.php:116
+msgid "N/A"
+msgstr ""
+
+#: ../pages/assets/page-form.php:126
+#: ../pages/dashboard/page-dashboard-people-tab.php:81
+#: ../pages/dashboard/page-dashboard-people-tab.php:141
+#: ../pages/dashboard/page-dashboard-people-tab.php:201
+#: ../pages/intelligence/page-click-trigger.php:247
+#: ../pages/intelligence/page-page-trigger.php:346
+#: ../pages/intelligence/page-user-event-type.php:138
+#: ../pages/lists/page-list-edit-tab.php:56
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:273
+#: ../ui-components/class-ezp-ibc-list-control.php:101
+#: ../ui-components/class-ezp-ibc-list-member-control.php:161
+#: ../ui-components/class-ezp-ibc-user-event-type-list-control.php:102
+#: ../ui-components/old/class-ezp-ibc-form-list-control.php:105
+#: ../ui-components/old/class-ezp-ibc-rule-list-control.php:93
+msgid "Name"
+msgstr ""
+
+#: ../pages/assets/page-form.php:145
+msgid "Template"
+msgstr ""
+
+#: ../pages/assets/page-form.php:159
+msgid "Success Message"
+msgstr ""
+
+#: ../pages/assets/page-form.php:170
+msgid "Hide After Submit"
+msgstr ""
+
+#: ../pages/assets/page-form.php:181
+msgid "Clear After Submit"
+msgstr ""
+
+#: ../pages/assets/page-form.php:192
+msgid "Success URL"
+msgstr ""
+
+#: ../pages/assets/page-form.php:207
+msgid "Fields"
+msgstr ""
+
+#: ../pages/assets/page-form.php:243
+msgid "Add Field"
+msgstr ""
+
+#: ../pages/assets/page-form.php:247
+#: ../pages/intelligence/page-click-trigger.php:232
+#: ../pages/intelligence/page-page-trigger.php:331
+#: ../pages/intelligence/page-user-event-type.php:175
+msgid "Save"
+msgstr ""
+
+#: ../pages/assets/page-form.php:247
+#: ../pages/intelligence/page-click-trigger.php:232
+#: ../pages/intelligence/page-page-trigger.php:331
+#: ../pages/intelligence/page-user-event-type.php:175
+#: ../pages/people/page-contact-edit-tab.php:256
+msgid "Update"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:95
+msgid "Site Activity"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:99
+msgid "Date Range"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:102
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:195
+msgid "Today"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:103
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:196
+msgid "Yesterday"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:104
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:197
+msgid "This Week"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:105
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:198
+msgid "Last Week"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:106
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:199
+msgid "Last Month"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:107
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:200
+msgid "Last 7 Days"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:108
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:201
+msgid "Last 30 Days"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:110
+msgid "Apply"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:119
+msgid "Conversions"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:161
+msgid "Top Events"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:197
+msgid "Define Events"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:208
+msgid "Top Referrers"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:254
+msgid "No Contacts."
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:264
+#: ../ui-components/class-ezp-ibc-event-list-control.php:71
+msgid "Form Submissions"
+msgstr ""
+
+#: ../pages/dashboard/page-activity-dashboard.php:320
+msgid "No Forms Submitted."
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-people-tab.php:64
+msgid "Top Prospects"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-people-tab.php:81
+#: ../pages/dashboard/page-dashboard-people-tab.php:141
+#: ../pages/dashboard/page-dashboard-people-tab.php:201
+#: ../pages/people/page-contact-edit-tab.php:111
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:276
+msgid "Score"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-people-tab.php:105
+#: ../pages/dashboard/page-dashboard-people-tab.php:165
+#: ../pages/dashboard/page-dashboard-people-tab.php:225
+msgid "People List"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-people-tab.php:109
+msgid "For full prospect list see "
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-people-tab.php:114
+msgid "No Prospects Found"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-people-tab.php:124
+msgid "Top Leads"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-people-tab.php:169
+msgid "For full lead list see "
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-people-tab.php:174
+msgid "No Leads Found"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-people-tab.php:184
+msgid "Top Customers"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-people-tab.php:229
+msgid "For full customer list see "
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-people-tab.php:234
+msgid "No Customers Found"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-realtime-monitor-tab.php:44
+msgid "Current Visitors"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-realtime-monitor-tab.php:50
+#: ../pages/dashboard/page-dashboard-realtime-monitor-tab.php:62
+msgid "Retrieving..."
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:64
+#: ../pages/people/page-contact-edit-tab.php:66
+msgid "Lifecycle"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:64
+msgid "Contacts by lifecycle"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:112
+msgid ""
+"<span style=\"font-size:1.6em; cursor:help\" title=\"No eCommerce system "
+"configured\">N/A</span>"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:117
+msgid "eCommerce system presently disabled"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:138
+#: ../pages/intelligence/page-intelligence.php:93
+#: ../pages/people/page-contact-edit-tab.php:131
+#: ../ui-components/class-ezp-ibc-event-list-control.php:72
+msgid "User Events"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:138
+msgid "Contacts who tripped the top user events"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:198
+msgid "Only top event types shown"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:207
+msgid "No User Events Defined"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:217
+msgid "Source"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:217
+msgid "Contacts by initial referral source"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:238
+#: ../pages/people/page-contact-edit-tab.php:100
+msgid "Direct"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:282
+msgid "Only top sources shown"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:287
+msgid "No Contacts"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:297
+msgid "Contacts who submitted top forms"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:369
+msgid "Contacts Page"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:373
+msgid "For more form activity, filter"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-site-status-tab.php:378
+msgid "No Forms Submitted"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-start-here-tab-old.php:44
+msgid "Disable Tab"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard-start-here-tab.php:54
+msgid "Hide Tab"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard.php:64
+msgid "Start Here"
+msgstr ""
+
+#: ../pages/dashboard/page-dashboard.php:65
+msgid "Site Status"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:81
+#: ../pages/intelligence/page-page-trigger.php:84
+msgid "Event Creation - "
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:92
+msgid "No event selected. Select one or create a new one if needed."
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:139
+msgid "Create Click Trigger"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:139
+msgid "Edit Click Trigger"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:140
+#: ../pages/intelligence/page-page-trigger.php:180
+#: ../pages/intelligence/page-user-event-type.php:103
+msgid "View All"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:155
+msgid "Click Trigger Updated."
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:161
+msgid "Click Trigger Created."
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:170
+#: ../pages/intelligence/page-click-trigger.php:182
+msgid "Event"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:170
+#: ../pages/intelligence/page-page-trigger.php:210
+msgid "Created."
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:188
+#: ../pages/intelligence/page-page-trigger.php:228
+msgid "Select Existing"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:211
+#: ../pages/intelligence/page-click-trigger.php:213
+#: ../pages/intelligence/page-page-trigger.php:251
+#: ../pages/intelligence/page-page-trigger.php:253
+msgid "Create New"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:219
+msgid "Selector"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:223
+#, php-format
+msgid ""
+"jQuery selector specfying one or more page elements. <a target=\"_blank\" "
+"href=\"%1$s\">What the heck does that mean?</a>"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:241
+#: ../pages/intelligence/page-page-trigger.php:340
+#: ../pages/intelligence/page-user-event-type.php:102
+msgid "Create User Event"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:251
+#: ../pages/intelligence/page-page-trigger.php:350
+#: ../pages/intelligence/page-user-event-type.php:149
+#: ../ui-components/class-ezp-ibc-user-event-type-list-control.php:103
+#: ../ui-components/old/fieldbox-template.php:79
+msgid "Description"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:255
+#: ../pages/intelligence/page-page-trigger.php:354
+#: ../pages/intelligence/page-user-event-type.php:160
+#: ../ui-components/class-ezp-ibc-event-list-control.php:145
+#: ../ui-components/class-ezp-ibc-user-event-type-list-control.php:104
+msgid "Worth"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:259
+#: ../pages/intelligence/page-page-trigger.php:358
+msgid "Create"
+msgstr ""
+
+#: ../pages/intelligence/page-click-trigger.php:261
+#: ../pages/intelligence/page-page-trigger.php:360
+#: ../pages/people/page-people-contacts-tab.php:50
+msgid "Cancel"
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence-scoring-tab.php:64
+#: ../pages/settings/page-settings-advanced-tab.php:70
+#: ../pages/settings/page-settings-basic-tab.php:84
+#: ../pages/settings/page-settings-storage-tab.php:84
+#: ../pages/support/page-support.php:100
+msgid "Settings Saved."
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence-scoring-tab.php:69
+msgid "Event Worths"
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence-scoring-tab.php:73
+#: ../pages/settings/page-settings-advanced-tab.php:75
+msgid "Form Submit"
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence-scoring-tab.php:84
+#: ../pages/people/page-contact-edit-tab.php:172
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:171
+msgid "Login"
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence-scoring-tab.php:95
+msgid "Page View"
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence.php:52
+#: ../pages/intelligence/page-intelligence.php:60
+msgid "Add Trigger"
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence.php:53
+msgid "User Event is triggered when user hits page(s)."
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence.php:62
+msgid "User Event is triggered when user clicks element(s)."
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence.php:69
+msgid "Add Event"
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence.php:71
+msgid ""
+"Use in combination with Triggers to know when users are interacting with "
+"site in meaningful ways (landing pages, special articles, post groups etc...)"
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence.php:77
+msgid "How much to add to user score when event is triggered"
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence.php:91
+msgid "Click Triggers"
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence.php:92
+msgid "Page Triggers"
+msgstr ""
+
+#: ../pages/intelligence/page-intelligence.php:94
+msgid "Scoring"
+msgstr ""
+
+#: ../pages/intelligence/page-page-trigger.php:137
+msgid "No event selected."
+msgstr ""
+
+#: ../pages/intelligence/page-page-trigger.php:179
+msgid "Create Page Trigger"
+msgstr ""
+
+#: ../pages/intelligence/page-page-trigger.php:179
+msgid "Edit Page Trigger"
+msgstr ""
+
+#: ../pages/intelligence/page-page-trigger.php:195
+msgid "Trigger Updated."
+msgstr ""
+
+#: ../pages/intelligence/page-page-trigger.php:201
+msgid "Trigger Created."
+msgstr ""
+
+#: ../pages/intelligence/page-page-trigger.php:259
+msgid "Page"
+msgstr ""
+
+#: ../pages/intelligence/page-page-trigger.php:308
+msgid "Enter Post ID"
+msgstr ""
+
+#: ../pages/intelligence/page-page-trigger.php:317
+msgid "Enter Relative URL"
+msgstr ""
+
+#: ../pages/intelligence/page-user-event-type.php:102
+msgid "Edit User Event"
+msgstr ""
+
+#: ../pages/intelligence/page-user-event-type.php:117
+msgid "User Event Updated."
+msgstr ""
+
+#: ../pages/intelligence/page-user-event-type.php:124
+msgid "User Event Created."
+msgstr ""
+
+#: ../pages/intelligence/page-user-event-type.php:165
+#, php-format
+msgid ""
+"Added to user's score when event is triggered. Valid range is %1$d to %2$d."
+msgstr ""
+
+#: ../pages/lists/page-list-edit-tab.php:48
+msgid "List Updated."
+msgstr ""
+
+#: ../pages/lists/page-list-members-tab.php:55
+#: ../ui-components/class-ezp-ibc-list-control.php:204
+msgid "Export"
+msgstr ""
+
+#: ../pages/lists/page-list-members-tab.php:60
+msgid "contacts page"
+msgstr ""
+
+#: ../pages/lists/page-list.php:98
+msgid "New List"
+msgstr ""
+
+#: ../pages/lists/page-list.php:98
+msgid "List "
+msgstr ""
+
+#: ../pages/lists/page-list.php:103 ../pages/people/page-contact.php:84
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:407
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:450
+#: ../ui-components/class-ezp-ibc-list-control.php:192
+#: ../ui-components/class-ezp-ibc-list-member-control.php:244
+#: ../ui-components/class-ezp-ibc-list-member-control.php:280
+#: ../ui-components/class-ezp-ibc-user-event-type-list-control.php:193
+#: ../ui-components/old/class-ezp-ibc-rule-list-control.php:166
+msgid "Edit"
+msgstr ""
+
+#: ../pages/lists/page-list.php:104
+msgid "Members"
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:51
+msgid "Contact Updated."
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:59
+msgid "Behavior"
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:76
+msgid "First Contact"
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:86
+msgid "Last Activity"
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:96
+msgid "Referral Path"
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:121
+msgid "URLs Visited"
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:141
+msgid "Last Host"
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:163
+msgid "Basic Information"
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:187
+#: ../ui-components/class-ezp-ibc-list-member-control.php:163
+msgid "Email"
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:197
+msgid "Last Name"
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:207
+msgid "First Name"
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:217
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:278
+msgid "Notes"
+msgstr ""
+
+#: ../pages/people/page-contact-edit-tab.php:232
+msgid "List Membership"
+msgstr ""
+
+#: ../pages/people/page-contact-events-tab.php:96
+#: ../ui-components/class-ezp-ibc-event-list-control.php:69
+msgid "All Events"
+msgstr ""
+
+#: ../pages/people/page-contact.php:85
+msgid "Events"
+msgstr ""
+
+#: ../pages/people/page-people-contacts-tab.php:49
+#: ../ui-components/class-ezp-ibc-click-trigger-list-control.php:205
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:309
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:437
+#: ../ui-components/class-ezp-ibc-list-control.php:202
+#: ../ui-components/class-ezp-ibc-page-trigger-list-control.php:208
+#: ../ui-components/class-ezp-ibc-user-event-type-list-control.php:203
+#: ../ui-components/old/class-ezp-ibc-rule-list-control.php:171
+msgid "Delete"
+msgstr ""
+
+#: ../pages/people/page-people-contacts-tab.php:140
+msgid "All Contacts"
+msgstr ""
+
+#: ../pages/people/page-people-contacts-tab.php:146
+msgid "with"
+msgstr ""
+
+#: ../pages/people/page-people-contacts-tab.php:181
+msgid "Export All"
+msgstr ""
+
+#: ../pages/people/page-people-contacts-tab.php:198
+msgid "Add All to List"
+msgstr ""
+
+#: ../pages/people/page-people-contacts-tab.php:207
+msgid "Confirm delete"
+msgstr ""
+
+#: ../pages/people/page-people-contacts-tab.php:208
+msgid "Contact(s) will be permanently deleted. Are you sure?"
+msgstr ""
+
+#: ../pages/people/page-people.php:78
+msgid "Add Contact"
+msgstr ""
+
+#: ../pages/people/page-people.php:86
+msgid "Add List"
+msgstr ""
+
+#: ../pages/people/page-people.php:107
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:277
+msgid "Lists"
+msgstr ""
+
+#: ../pages/settings/page-settings-advanced-tab.php:85
+#, php-format
+msgid ""
+"Comma separated list of <a target=\"_blank\" href=\"%1$s\">jQuery selectors</"
+"a> (e.g. #form-id, .form-class)"
+msgstr ""
+
+#: ../pages/settings/page-settings-advanced-tab.php:90
+msgid "Mode"
+msgstr ""
+
+#: ../pages/settings/page-settings-advanced-tab.php:94
+msgid "Capture all forms except those listed"
+msgstr ""
+
+#: ../pages/settings/page-settings-advanced-tab.php:95
+msgid "Capture only the listed forms"
+msgstr ""
+
+#: ../pages/settings/page-settings-advanced-tab.php:105
+msgid "Communications"
+msgstr ""
+
+#: ../pages/settings/page-settings-advanced-tab.php:109
+msgid "Ajax Protocol"
+msgstr ""
+
+#: ../pages/settings/page-settings-advanced-tab.php:113
+msgid "Auto"
+msgstr ""
+
+#: ../pages/settings/page-settings-advanced-tab.php:114
+msgid "HTTP"
+msgstr ""
+
+#: ../pages/settings/page-settings-advanced-tab.php:115
+msgid "HTTPS"
+msgstr ""
+
+#: ../pages/settings/page-settings-basic-tab.php:89
+msgid "Help"
+msgstr ""
+
+#: ../pages/settings/page-settings-basic-tab.php:93
+msgid "\"Start Here\" Tab"
+msgstr ""
+
+#: ../pages/settings/page-settings-basic-tab.php:100
+#: ../pages/support/page-support.php:133
+msgid "Enabled"
+msgstr ""
+
+#: ../pages/settings/page-settings-basic-tab.php:110
+msgid "ECommerce"
+msgstr ""
+
+#: ../pages/settings/page-settings-basic-tab.php:114
+msgid "System"
+msgstr ""
+
+#: ../pages/settings/page-settings-basic-tab.php:118
+#: ../ui-components/class-ezp-ibc-page-trigger-list-control.php:169
+msgid "None"
+msgstr ""
+
+#: ../pages/settings/page-settings-basic-tab.php:119
+msgid "WooCommerce"
+msgstr ""
+
+#: ../pages/settings/page-settings-basic-tab.php:121
+msgid "Capture purchase events"
+msgstr ""
+
+#: ../pages/settings/page-settings-basic-tab.php:130
+msgid "Uninstall"
+msgstr ""
+
+#: ../pages/settings/page-settings-basic-tab.php:134
+msgid "Plugin Tables"
+msgstr ""
+
+#: ../pages/settings/page-settings-basic-tab.php:141
+msgid "Drop on Uninstall"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:88
+msgid "All Records Purged."
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:93
+msgid "Stats"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:100
+#: ../pages/settings/page-settings-storage-tab.php:212
+msgid "WordPress DB Size"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:104
+#: ../pages/settings/page-settings-storage-tab.php:114
+#: ../pages/settings/page-settings-storage-tab.php:217
+#: ../pages/settings/page-settings-storage-tab.php:229
+msgid "MB"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:110
+#: ../pages/settings/page-settings-storage-tab.php:224
+msgid "IBC Table Size"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:125
+msgid "# Prospects"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:135
+msgid "# Events"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:147
+msgid "Delete All"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:153
+msgid "Purge Policy"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:158
+msgid "Inactive Prospect Age"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:163
+#: ../pages/settings/page-settings-storage-tab.php:180
+msgid "3 Days"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:164
+#: ../pages/settings/page-settings-storage-tab.php:181
+msgid "7 Days"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:165
+#: ../pages/settings/page-settings-storage-tab.php:182
+msgid "30 Days"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:166
+#: ../pages/settings/page-settings-storage-tab.php:183
+msgid "90 Days"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:167
+#: ../pages/settings/page-settings-storage-tab.php:184
+msgid "Keep Forever"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:169
+msgid "How long to keep inactive prospects (anonymous visitors)"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:175
+msgid "Page History Retention"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:186
+msgid "How long to keep Page View events"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:192
+msgid "Max Pages Per Visitor"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:197
+msgid "pages"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:198
+msgid ""
+"Max number of URL hits to retain per visitor. Oldest is purged first. Set to "
+"0 to disable."
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:208
+msgid "Alerts"
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:218
+msgid ""
+"Display alert if total size of WordPress database exceeds specified size. "
+"Set to 0 to disable."
+msgstr ""
+
+#: ../pages/settings/page-settings-storage-tab.php:230
+msgid ""
+"Display alert if size of Easy Pie IBC tables exceeds specified size. Set to "
+"0 to disable."
+msgstr ""
+
+#: ../pages/settings/page-settings.php:36
+msgid ""
+"Default settings are estimates based on lightly used site. Cater to your "
+"site needs."
+msgstr ""
+
+#: ../pages/settings/page-settings.php:59
+msgid "Basic"
+msgstr ""
+
+#: ../pages/settings/page-settings.php:60
+msgid "Advanced"
+msgstr ""
+
+#: ../pages/settings/page-settings.php:61
+msgid "Storage"
+msgstr ""
+
+#: ../pages/support/page-support.php:125
+msgid "Logging"
+msgstr ""
+
+#: ../pages/support/page-support.php:129
+msgid "Execution Auditing"
+msgstr ""
+
+#: ../pages/support/page-support.php:134
+msgid "Dumps detailed execution information to the error log"
+msgstr ""
+
+#: ../pages/support/page-support.php:141
+msgid "Error Log"
+msgstr ""
+
+#: ../pages/support/page-support.php:145
+msgid "Download"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-click-trigger-list-control.php:92
+#: ../ui-components/class-ezp-ibc-page-trigger-list-control.php:104
+msgid "Trigger"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-click-trigger-list-control.php:93
+msgid "Element(s)"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-click-trigger-list-control.php:195
+#: ../ui-components/class-ezp-ibc-page-trigger-list-control.php:198
+#, php-format
+msgid "<a href=\"%1$s\">Edit</a>"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:161
+msgid "All Lifecycles"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:167
+msgid "With Event"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:187
+msgid "Triggered"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:194
+msgid "All Time"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:203
+#: ../ui-components/class-ezp-ibc-event-list-control.php:78
+#: ../ui-components/old/class-ezp-ibc-rule-list-control.php:95
+msgid "Filter"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:204
+msgid "Show Advanced Filter"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-contact-list-control.php:306
+msgid "Add to "
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-event-list-control.php:70
+msgid "Page Loads"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-event-list-control.php:73
+msgid "Logins"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-event-list-control.php:74
+msgid "Lifecycle Changes"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-event-list-control.php:75
+msgid "Purchases"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-event-list-control.php:142
+#: ../ui-components/old/class-ezp-ibc-rule-list-control.php:94
+msgid "Type"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-event-list-control.php:143
+msgid "Detail"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-event-list-control.php:144
+msgid "Timestamp"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-event-list-control.php:333
+#, php-format
+msgid "Start of session %1$s"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-list-control.php:102
+msgid "# Members"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-list-control.php:192
+#, php-format
+msgid "<a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-list-member-control.php:162
+msgid "Stage"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-list-member-control.php:263
+#: ../ui-components/old/fieldbox-template.php:111
+msgid "Remove"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-page-trigger-list-control.php:101
+msgid "Hover for page list"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-page-trigger-list-control.php:105
+#, php-format
+msgid "Page(s) %1$s"
+msgstr ""
+
+#: ../ui-components/class-ezp-ibc-page-trigger-list-control.php:160
+#, php-format
+msgid "<span style=\"cursor:help\" title=\"%1$s\">Several</span>"
+msgstr ""
+
+#: ../ui-components/old/class-ezp-ibc-form-list-control.php:106
+msgid "Shortcode"
+msgstr ""
+
+#: ../ui-components/old/class-ezp-ibc-rule-list-control.php:96
+msgid "Action"
+msgstr ""
+
+#: ../ui-components/old/class-ezp-ibc-rule-list-control.php:188
+msgid "URL"
+msgstr ""
+
+#: ../ui-components/old/class-ezp-ibc-rule-list-control.php:196
+msgid "Button"
+msgstr ""
+
+#: ../ui-components/old/class-ezp-ibc-rule-list-control.php:200
+msgid "Custom"
+msgstr ""
+
+#: ../ui-components/old/fieldbox-template.php:8
+msgid "No Label"
+msgstr ""
+
+#: ../ui-components/old/fieldbox-template.php:30
+msgid "Field Type"
+msgstr ""
+
+#: ../ui-components/old/fieldbox-template.php:35
+msgid "Data"
+msgstr ""
+
+#: ../ui-components/old/fieldbox-template.php:42
+msgid "Contact Field"
+msgstr ""
+
+#: ../ui-components/old/fieldbox-template.php:69
+msgid "Label"
+msgstr ""
+
+#: ../ui-components/old/fieldbox-template.php:89
+msgid "Default Value"
+msgstr ""
+
+#: ../ui-components/old/fieldbox-template.php:99
+msgid "Required"
+msgstr ""

@@ -1,0 +1,17 @@
+/* 
+    Document   : styles.css
+    Created on : Oct 3, 2013, 8:40:59 AM
+    Author     : Play
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.ezp-form-label {
+    font-weight: bold;
+}
+
+.ezp-form-input {
+    margin-bottom: 20px;
+}
+
+
